@@ -541,7 +541,7 @@ const RoofRepairOrReplacementQuiz = () => {
                 color: PAK_NAVY,
                 marginBottom: 14
               }}>
-                Real Pricing
+                Real Pricing for Colorado Roof Replacements
               </h3>
               <p style={{
                 fontSize: 14,
@@ -659,8 +659,17 @@ const RoofRepairOrReplacementQuiz = () => {
                 color: PAK_NAVY,
                 marginBottom: 14
               }}>
-                Material Options
+                Material Options for Colorado Homes
               </h3>
+
+              <p style={{
+                fontSize: 14,
+                color: "#475569",
+                lineHeight: 1.7,
+                marginBottom: 16
+              }}>
+                When it's time for a new roof, you have more options than you might think. The right choice depends on where you live, what your roof deals with season to season, and what matters most to you in terms of longevity, appearance, and cost.
+              </p>
 
               <div style={{ marginBottom: 16 }}>
                 <h4 style={{
@@ -677,7 +686,7 @@ const RoofRepairOrReplacementQuiz = () => {
                   lineHeight: 1.7,
                   margin: 0
                 }}>
-                  Impact-resistant shingles meet UL 2218 standards and provide superior protection against hail and wind damage common in Colorado. Class 3 and Class 4 ratings indicate the level of impact resistance.
+                  The most common choice for Colorado homes. Impact-resistant shingles are built with better materials overall, which means they hold up to hail, UV exposure, freeze-thaw cycles, and temperature swings significantly better than standard shingles. Class 4 is the highest impact rating and often qualifies for insurance premium discounts, which can offset a meaningful portion of the cost difference over time. For most Colorado homes, impact-resistant asphalt is the sweet spot between weather performance and cost.
                 </p>
               </div>
 
@@ -696,7 +705,7 @@ const RoofRepairOrReplacementQuiz = () => {
                   lineHeight: 1.7,
                   margin: 0
                 }}>
-                  Steel roofing with stone aggregate coating offers the durability of metal with the aesthetic appeal of traditional shingles. Excellent for Colorado's extreme weather conditions.
+                  One of the strongest options available, and often overlooked. Stone-coated steel is installed on a batten system, which creates an air gap between the roof deck and the panels. That air gap has real energy efficiency benefits because it reduces heat transfer through the roof assembly. The stone granules on the surface also provide built-in snow retention in mountain areas, and the traditional look blends well with most neighborhoods. It handles hail, UV, and temperature swings as well as anything on the market, and it lasts significantly longer than asphalt.
                 </p>
               </div>
 
@@ -715,7 +724,7 @@ const RoofRepairOrReplacementQuiz = () => {
                   lineHeight: 1.7,
                   margin: 0
                 }}>
-                  Premium metal roofing with vertical seams for maximum weather protection and modern aesthetics. Ideal for mountain areas and contemporary homes.
+                  Standing seam is a long-term play. It lasts 40-60+ years, handles extreme weather well, and requires minimal maintenance. Its smooth surface releases ice and snow quickly, which keeps loads off the roof in mountain areas. In mountain installations, a robust snow retention setup with snow fencing and snow guards is needed to keep ice and snow from sliding off in dangerous sheets. Along the Front Range, the primary benefits are longevity and hail performance. When it's designed correctly, it's one of the longest-lasting roofing systems you can install.
                 </p>
               </div>
 
@@ -751,7 +760,7 @@ const RoofRepairOrReplacementQuiz = () => {
                   lineHeight: 1.7,
                   margin: 0
                 }}>
-                  Engineered materials that mimic the look of premium slate or wood shake with superior durability and weather resistance. Great for homeowners seeking distinctive aesthetics without maintenance hassles.
+                  Engineered to look like natural slate, cedar shake, clay tile, or barrel tile, but built to handle Colorado conditions. Lighter than real stone or clay, longer-lasting than wood, and designed to resist the UV and temperature cycling that breaks down natural materials. Premium price, but it's a long-term investment with very low maintenance.
                 </p>
               </div>
 
@@ -770,7 +779,7 @@ const RoofRepairOrReplacementQuiz = () => {
                   lineHeight: 1.7,
                   margin: 0
                 }}>
-                  Traditional tile roofing offers exceptional longevity (50+ years) and distinctive character. Requires specialized installation and structural assessment due to weight.
+                  Tile roofs are common in parts of Colorado and can last 50 years or more when installed correctly. Concrete tile is heavier and more affordable. Clay tile is lighter and typically more expensive, with a distinctive barrel or flat profile. Both handle UV and temperature swings well, but weight matters. Your roof structure needs to support tile, and not every home was framed for it. If your home already has tile, replacement is usually straightforward. If you're considering a switch to tile, we'll check your framing and let you know whether it's realistic before you commit to anything.
                 </p>
               </div>
 
@@ -789,7 +798,7 @@ const RoofRepairOrReplacementQuiz = () => {
                   lineHeight: 1.7,
                   margin: 0
                 }}>
-                  Premium asphalt shingles with enhanced aesthetics and improved durability. Offers a middle ground between standard asphalt and metal or composite options.
+                  For homeowners who want a distinctive architectural look without moving to metal or synthetic. Thicker profiles, richer textures, and a wider range of color options. These sit between standard impact-resistant and premium synthetic in both price and curb appeal.
                 </p>
               </div>
 
@@ -883,7 +892,7 @@ const RoofRepairOrReplacementQuiz = () => {
                 lineHeight: 1.7,
                 marginBottom: 12
               }}>
-                Your roof's primary job is obvious—keep the weather out. But its second job is equally critical: manage the air and moisture that naturally accumulates in your attic. Proper roof ventilation is how you prevent expensive problems that develop over years inside your home, where you can't see them.
+                Your roof keeps weather out. That's the obvious job. But the second most important function of your roof system is moving air through your attic. And this is where most contractors, even good ones, cut corners or just don't think about it.
               </p>
 
               <p style={{
@@ -892,7 +901,7 @@ const RoofRepairOrReplacementQuiz = () => {
                 lineHeight: 1.7,
                 marginBottom: 16
               }}>
-                Many roofing contractors focus only on the visible part of the installation—the shingles and flashing. They skip or shortcut the ventilation system. Your roof looks fine, so you don't notice. But inside, moisture is accumulating, and mold is beginning to grow. Two or three years later, you're dealing with wood rot, structural damage, and an expensive nightmare.
+                Your attic ventilation affects how long your roof lasts, how comfortable your home feels, and whether you end up with condensation, mold, ice dams, or premature failures. In Colorado, where temperature swings are extreme and conditions vary dramatically by location, this isn't optional. It's essential.
               </p>
 
               <h4 style={{
@@ -907,9 +916,17 @@ const RoofRepairOrReplacementQuiz = () => {
                 fontSize: 14,
                 color: "#475569",
                 lineHeight: 1.7,
+                marginBottom: 12
+              }}>
+                A well-designed attic allows consistent air exchange: fresh, cool air enters through intake vents near the eaves, and warm air exits through exhaust vents near the ridge. This balance does four critical things:
+              </p>
+              <p style={{
+                fontSize: 14,
+                color: "#475569",
+                lineHeight: 1.7,
                 marginBottom: 16
               }}>
-                A properly ventilated attic maintains a temperature and humidity level that keeps your shingles healthier and your home structurally sound. Ventilation brings in fresh air through soffit vents (under the eaves) and lets warm, moist air escape through ridge vents (at the peak). This continuous air exchange reduces the lifespan-killing effects of heat buildup and prevents moisture accumulation.
+                It extends the life of your roof by reducing trapped heat and moisture. It reduces the risk of condensation, ice dams, and attic mold growth. It helps prevent shingles from curling or cracking prematurely. And it improves indoor comfort and HVAC efficiency, which shows up in lower energy costs over time.
               </p>
 
               <h4 style={{
@@ -926,7 +943,7 @@ const RoofRepairOrReplacementQuiz = () => {
                 lineHeight: 1.7,
                 marginBottom: 16
               }}>
-                Without proper ventilation, warm moist air from your home (from showers, cooking, laundry, even respiration) rises into the attic. When it hits cold surfaces—especially in winter or at night—it condenses into liquid water. That water soaks into insulation, rots wood, and provides the perfect breeding ground for mold. Mold compromises both your health and your home's structural integrity.
+                When warm, moist air gets trapped in an attic that can't breathe, condensation forms on the underside of the roof deck. Over time, that moisture damages insulation, rots framing, and creates conditions for mold growth. In Colorado, where the temperature difference between inside and outside can be significant, this can develop faster than most people realize.
               </p>
 
               <h4 style={{
@@ -943,7 +960,7 @@ const RoofRepairOrReplacementQuiz = () => {
                 lineHeight: 1.7,
                 marginBottom: 16
               }}>
-                Poor attic ventilation and insulation lead to uneven roof temperatures. When your attic stays warmer than it should, snow melts unevenly on your roof. Water runs down and refreezes at the cold eaves, creating ice dams. Ice dams cause water to back up under your shingles and leak into your home. Proper ventilation keeps your attic cooler, preventing this cycle.
+                Heat escaping into the attic melts snow on the roof. The meltwater runs down to colder eave areas and refreezes. That ice buildup dams additional water, forcing it under your shingles and into your home. This is most common in mountain homes but happens along the Front Range too, especially after heavy wet snow. The root cause isn't snow. It's uneven roof temperature from inadequate ventilation.
               </p>
 
               <h4 style={{
@@ -960,7 +977,7 @@ const RoofRepairOrReplacementQuiz = () => {
                 lineHeight: 1.7,
                 marginBottom: 16
               }}>
-                An overheated attic in summer forces your air conditioning system to work harder to cool your home. Proper ventilation exhausts that heat before it radiates down through your ceiling. In winter, a well-ventilated attic keeps cold air from being pushed into your living spaces. Both effects reduce your energy costs.
+                Proper ventilation keeps your attic cooler in summer and drier in winter, which means your HVAC system doesn't have to work as hard. That shows up in lower energy costs over time. In Colorado, where you're running heat and AC in meaningful amounts, this matters.
               </p>
 
               <h4 style={{
@@ -969,15 +986,31 @@ const RoofRepairOrReplacementQuiz = () => {
                 color: PAK_NAVY,
                 marginBottom: 12
               }}>
-                My Ventilation Has Been Fine for Years. Why Can't I Just Keep What I Have?
+                "My Ventilation Has Been Fine for Years. Why Can't I Just Keep What I Have?"
               </h4>
+              <p style={{
+                fontSize: 14,
+                color: "#475569",
+                lineHeight: 1.7,
+                marginBottom: 12
+              }}>
+                Maybe it has been fine. But a roof replacement changes the equation.
+              </p>
+              <p style={{
+                fontSize: 14,
+                color: "#475569",
+                lineHeight: 1.7,
+                marginBottom: 12
+              }}>
+                Modern underlayment is significantly more effective at sealing out water than what was on your roof before. That's a good thing. But it also seals off airflow. Older underlayment breathed more. In mountain jurisdictions, full peel-and-stick ice and water shield is now required, which really tightens up the roof assembly. Even along the Front Range, the newer materials going on top create a tighter system than what was there before.
+              </p>
               <p style={{
                 fontSize: 14,
                 color: "#475569",
                 lineHeight: 1.7,
                 marginBottom: 16
               }}>
-                Your old ventilation system may have been adequate for your old roof, but it was designed for different materials, different weather exposure, and different home insulation levels. Modern building codes and best practices have evolved. A new roof is your opportunity to install a ventilation system that actually matches your home's current configuration, not one based on what worked 20 years ago.
+                The roof you're putting on is not the same system as the one you're taking off, even if the ventilation hardware looks identical. This is why ventilation needs to be evaluated during every roof replacement, not just assumed to be fine because it was fine before.
               </p>
 
               <h4 style={{
@@ -994,7 +1027,7 @@ const RoofRepairOrReplacementQuiz = () => {
                 lineHeight: 1.7,
                 marginBottom: 16
               }}>
-                Most contractors size ventilation based on attic square footage alone. But Colorado's mountain areas require different calculations than the Front Range. Wind speeds, temperature swings, snow load, UV intensity—all these factors require adjustments. A contractor who doesn't account for your specific climate zone is gambling with your roof.
+                The problem is that most ventilation gets installed using general rules of thumb. That might be fine for some homes, but it doesn't account for your specific roof design, attic layout, or how air actually moves through the space. Using the wrong combination of products or the wrong quantities can actually make things worse instead of better.
               </p>
 
               <div style={{
@@ -1012,28 +1045,21 @@ const RoofRepairOrReplacementQuiz = () => {
                 }}>
                   Common Ventilation Mistakes We See in Colorado
                 </h4>
-                <ul style={{ margin: 0, padding: 0, listStyle: "none" }}>
-                  <li style={{ fontSize: 14, color: "#475569", marginBottom: 8 }}>
-                    <span style={{ fontWeight: 800, marginRight: 8 }}>•</span>
-                    Undersized ridge vents (homeowners worry about leaks, so contractors install small vents that don't work)
-                  </li>
-                  <li style={{ fontSize: 14, color: "#475569", marginBottom: 8 }}>
-                    <span style={{ fontWeight: 800, marginRight: 8 }}>•</span>
-                    Blocked or insufficient soffit vents (can't pull air in if there's nowhere to pull from)
-                  </li>
-                  <li style={{ fontSize: 14, color: "#475569", marginBottom: 8 }}>
-                    <span style={{ fontWeight: 800, marginRight: 8 }}>•</span>
-                    Attic fans installed without proper intake (pulls in from your living space, costs you money on heating/cooling)
-                  </li>
-                  <li style={{ fontSize: 14, color: "#475569", marginBottom: 8 }}>
-                    <span style={{ fontWeight: 800, marginRight: 8 }}>•</span>
-                    Ventilation not designed for your roof pitch or attic layout
-                  </li>
-                  <li style={{ fontSize: 14, color: "#475569" }}>
-                    <span style={{ fontWeight: 800, marginRight: 8 }}>•</span>
-                    Ductwork from bathroom or dryer vented into the attic instead of outside (adds moisture and defeats ventilation)
-                  </li>
-                </ul>
+                <p style={{ fontSize: 14, color: "#475569", lineHeight: 1.7, marginBottom: 8 }}>
+                  <span style={{ fontWeight: 700 }}>Insufficient intake.</span> Many homes lack adequate soffit vents or have blocked intake because insulation was pushed too far toward the eaves.
+                </p>
+                <p style={{ fontSize: 14, color: "#475569", lineHeight: 1.7, marginBottom: 8 }}>
+                  <span style={{ fontWeight: 700 }}>Mismatched exhaust.</span> Ridge vents, gable vents, or roof vents that don't move enough air relative to intake, throwing off the balance.
+                </p>
+                <p style={{ fontSize: 14, color: "#475569", lineHeight: 1.7, marginBottom: 8 }}>
+                  <span style={{ fontWeight: 700 }}>Multiple attic sections treated as one.</span> Homes with complex roof geometry often have separate attic spaces that aren't connected. Each one needs its own ventilation. Most contractors miss this.
+                </p>
+                <p style={{ fontSize: 14, color: "#475569", lineHeight: 1.7, marginBottom: 8 }}>
+                  <span style={{ fontWeight: 700 }}>Vaulted ceilings ignored.</span> Cathedral ceilings and vaulted spaces create ventilation challenges because traditional soffit-to-ridge airflow doesn't work the same way.
+                </p>
+                <p style={{ fontSize: 14, color: "#475569", lineHeight: 1.7, marginBottom: 0 }}>
+                  <span style={{ fontWeight: 700 }}>Assuming the old ventilation still works under new materials.</span> The roof going on is not the same system as the one coming off. Modern underlayment and ice and water shield seal the roof deck much tighter than older products did. A ventilation setup that worked fine under your previous roof may not be adequate under the new one. If the ventilation isn't redesigned to account for the change, moisture has nowhere to go.
+                </p>
               </div>
 
               <h4 style={{
@@ -1045,43 +1071,38 @@ const RoofRepairOrReplacementQuiz = () => {
                 How We Handle Ventilation (Two-Stage Design)
               </h4>
 
-              <div style={{ marginBottom: 16 }}>
-                <h5 style={{
-                  fontSize: 14,
-                  fontWeight: 700,
-                  color: PAK_NAVY,
-                  marginBottom: 8
-                }}>
-                  Stage 1: Assessment and Calculation
-                </h5>
-                <p style={{
-                  fontSize: 14,
-                  color: "#475569",
-                  lineHeight: 1.7,
-                  margin: 0
-                }}>
-                  We inspect your current attic conditions, measure your roof area, assess your climate zone (mountain or Front Range), and calculate the exact ventilation requirements. We verify that your soffit and ridge vents can work together effectively given your roof geometry.
-                </p>
-              </div>
-
-              <div>
-                <h5 style={{
-                  fontSize: 14,
-                  fontWeight: 700,
-                  color: PAK_NAVY,
-                  marginBottom: 8
-                }}>
-                  Stage 2: Installation with Quality Materials
-                </h5>
-                <p style={{
-                  fontSize: 14,
-                  color: "#475569",
-                  lineHeight: 1.7,
-                  margin: 0
-                }}>
-                  We install properly sized ridge vents and soffit vents using materials rated for your climate. We ensure all vents are unobstructed, properly sealed to prevent water penetration, and designed to work together as a system. If you have any ductwork venting into the attic, we relocate it to the exterior to prevent moisture problems.
-                </p>
-              </div>
+              <p style={{
+                fontSize: 14,
+                color: "#475569",
+                lineHeight: 1.7,
+                marginBottom: 12
+              }}>
+                We don't guess. Ventilation is calculated based on your attic's actual needs, not rules of thumb.
+              </p>
+              <p style={{
+                fontSize: 14,
+                color: "#475569",
+                lineHeight: 1.7,
+                marginBottom: 12
+              }}>
+                <span style={{ fontWeight: 700 }}>Stage 1: Planning.</span> We use your roof measurements to calculate intake and exhaust requirements based on attic square footage, roof geometry, and vent performance ratings. This tells us how much airflow is needed and what types of vents should work.
+              </p>
+              <p style={{
+                fontSize: 14,
+                color: "#475569",
+                lineHeight: 1.7,
+                marginBottom: 12
+              }}>
+                <span style={{ fontWeight: 700 }}>Stage 2: On-site verification.</span> Once work begins, the attic gets physically inspected to confirm the layout, check for obstructions, and trace actual airflow paths. Some homes have multiple attic sections that aren't connected to each other, which means each space needs its own ventilation. Adjustments get made based on what the house actually looks like, not just what the measurements suggested.
+              </p>
+              <p style={{
+                fontSize: 14,
+                color: "#475569",
+                lineHeight: 1.7,
+                margin: 0
+              }}>
+                Skipping either stage is how you end up with ventilation that looks right on paper but doesn't actually work. Ventilation should be part of the plan, not something that gets tacked on at the end.
+              </p>
             </div>
 
             {/* CTA BREAK 3 */}
@@ -1148,7 +1169,7 @@ const RoofRepairOrReplacementQuiz = () => {
                 color: PAK_NAVY,
                 marginBottom: 14
               }}>
-                A Roof Is a System
+                A Roof Is a System, Not Just Shingles
               </h3>
 
               <p style={{
@@ -1157,7 +1178,7 @@ const RoofRepairOrReplacementQuiz = () => {
                 lineHeight: 1.7,
                 marginBottom: 12
               }}>
-                A roof isn't just shingles. It's a system of materials and techniques—underlayment, flashing, ventilation, insulation, structural support—that work together. Install great shingles on a roof with poor ventilation and inadequate flashing, and you'll still have problems.
+                A roof works best when every part of it is designed together. The shingles on top are the visible part, but underneath that you have underlayment, ice and water shield, flashing, decking, and ventilation all working as a system. If one piece is wrong, it affects everything else.
               </p>
 
               <p style={{
@@ -1166,7 +1187,7 @@ const RoofRepairOrReplacementQuiz = () => {
                 lineHeight: 1.7,
                 marginBottom: 12
               }}>
-                When we design a roof replacement, we treat it as a complete system. We assess every component, not just what's visible. We recommend materials and techniques that work together for your climate and your home's specific conditions.
+                In Colorado, this matters more than most places. Whether it's hail along the Front Range, snow loads in the mountains, or the UV and temperature swings that hit everywhere in between, these conditions stress every layer of the roof assembly, not just the surface. A roof with great shingles but poor ventilation or inadequate underlayment will still fail early.
               </p>
 
               <p style={{
@@ -1175,7 +1196,7 @@ const RoofRepairOrReplacementQuiz = () => {
                 lineHeight: 1.7,
                 marginBottom: 12
               }}>
-                Once your new roof is installed, we assign you a dedicated construction manager who oversees the project and handles any questions or issues. That person is your single point of contact through the entire process. They're not a salesperson—they're responsible for making sure your roof is built right.
+                This is why we evaluate ventilation as part of every roof replacement. It's not a separate service we upsell. It's part of how a roof should be built.
               </p>
 
               <div style={{
@@ -1190,7 +1211,7 @@ const RoofRepairOrReplacementQuiz = () => {
                   lineHeight: 1.6,
                   margin: 0
                 }}>
-                  <span style={{ fontWeight: 700 }}>Your dedicated construction manager</span> will be your main contact from contract signature through final walkthrough and beyond. One person, known to you, responsible for your roof.
+                  <span style={{ fontWeight: 700 }}>Every project gets a dedicated construction manager.</span> Not a rotating crew. You'll have one person who knows your project, your roof, and your situation. We update photos throughout the day via our online portal so you can see what's happening without wondering or calling. Most homeowners have never had that kind of visibility into their project.
                 </p>
               </div>
             </div>
@@ -1259,8 +1280,17 @@ const RoofRepairOrReplacementQuiz = () => {
                 color: PAK_NAVY,
                 marginBottom: 14
               }}>
-                What to Look for in a Contractor
+                What to Look for in a Colorado Roofing Contractor
               </h3>
+
+              <p style={{
+                fontSize: 14,
+                color: "#475569",
+                lineHeight: 1.7,
+                marginBottom: 16
+              }}>
+                Not every roofer who shows up with a truck and a business card knows what they're doing. Here are the questions worth asking before you hire anyone:
+              </p>
 
               <div style={{ marginBottom: 16 }}>
                 <h4 style={{
@@ -1277,7 +1307,7 @@ const RoofRepairOrReplacementQuiz = () => {
                   lineHeight: 1.7,
                   margin: 0
                 }}>
-                  If a contractor talks only about shingles and flashing, they're not thinking about your complete system. Ask them how they'll assess and design your roof's ventilation. If they can't explain it clearly, move on.
+                  Ask them: "Is the ventilation design based on calculation of my attic's actual needs? How will intake and exhaust balance be verified on-site?" A contractor who can answer these questions thoroughly understands ventilation. One who uses generic layouts or "standard" products may not. This is the most revealing question you can ask a roofer, and it's the one most homeowners don't think to bring up.
                 </p>
               </div>
 
@@ -1296,7 +1326,7 @@ const RoofRepairOrReplacementQuiz = () => {
                   lineHeight: 1.7,
                   margin: 0
                 }}>
-                  A contractor certified by multiple manufacturers is more likely to recommend based on what's best for your home, not brand loyalty or commission rates.
+                  A contractor locked into one manufacturer is going to recommend that brand. It might not be the best fit for your home. Multi-manufacturer certification means the recommendation is based on your situation, not their business relationship.
                 </p>
               </div>
 
@@ -1315,7 +1345,7 @@ const RoofRepairOrReplacementQuiz = () => {
                   lineHeight: 1.7,
                   margin: 0
                 }}>
-                  You should know exactly what's included in your contract and what it costs. No surprises mid-project because "we found more damage." Legitimate changes to scope happen, but they should be documented in writing with updated pricing before work begins.
+                  You should know exactly what work is being done, what materials are being used, and what it costs before anything starts. If a contractor won't put that in front of you before you sign, that's a red flag.
                 </p>
               </div>
 
@@ -1334,7 +1364,7 @@ const RoofRepairOrReplacementQuiz = () => {
                   lineHeight: 1.7,
                   margin: 0
                 }}>
-                  A contractor based in your region understands local climate challenges, code requirements, and typical home configurations. That knowledge is part of why you're hiring them.
+                  Mountain communities have different building codes, different enforcement levels, and different requirements than the Front Range. A contractor familiar with your specific area will know the current requirements and can navigate the permit process without surprises.
                 </p>
               </div>
 
@@ -1353,7 +1383,7 @@ const RoofRepairOrReplacementQuiz = () => {
                   lineHeight: 1.7,
                   margin: 0
                 }}>
-                  Ask to see proof of liability insurance and workers' compensation coverage. Call their insurance company directly to verify the policy is active. This protects you if someone is injured on your property.
+                  Ask to see their certificate of insurance. Then call the agent or broker listed on the certificate and confirm the coverage is active and written primarily for roofing. That last step matters more than most people realize. There's a known practice in the trades where contractors get insured under a cheaper trade category to reduce their premiums, get a certificate and then cancel the policy, or in some cases present a forged certificate. A five-minute phone call removes all of that uncertainty.
                 </p>
               </div>
 
@@ -1372,7 +1402,7 @@ const RoofRepairOrReplacementQuiz = () => {
                   lineHeight: 1.7,
                   margin: 0
                 }}>
-                  A warranty is only as good as the company backing it. Work with an established local contractor you can reach in 5 years when you need warranty service, not a fly-by-night outfit that moves on to the next town.
+                  Ask where they're based and how long they've been in business. Not how long their brand has existed, but how long this specific company has been operating under this name, at this location. A locally owned company with a physical presence is more likely to stand behind their warranty than a crew that showed up for the season.
                 </p>
               </div>
 
@@ -1411,82 +1441,62 @@ const RoofRepairOrReplacementQuiz = () => {
                 Why Homeowners Work With Us
               </h3>
 
-              <div style={{ marginBottom: 16 }}>
-                <p style={{
-                  fontSize: 14,
-                  color: "#475569",
-                  lineHeight: 1.7,
-                  marginBottom: 0
-                }}>
-                  <span style={{ fontWeight: 700 }}>We're local.</span> Pak Exteriors has been serving Colorado homes for over a decade. We know the climate. We know the codes. We know what works here, because we live here.
-                </p>
-              </div>
-
-              <div style={{ marginBottom: 16 }}>
-                <p style={{
-                  fontSize: 14,
-                  color: "#475569",
-                  lineHeight: 1.7,
-                  marginBottom: 0
-                }}>
-                  <span style={{ fontWeight: 700 }}>We're transparent about pricing.</span> We publish our pricing online. We don't hide numbers behind a consultation. You can see exactly what a roof costs and why. That doesn't mean there are no variables—there always are—but you understand the pricing framework before we ever meet.
-                </p>
-              </div>
-
-              <div style={{ marginBottom: 16 }}>
-                <p style={{
-                  fontSize: 14,
-                  color: "#475569",
-                  lineHeight: 1.7,
-                  marginBottom: 0
-                }}>
-                  <span style={{ fontWeight: 700 }}>We design for your climate.</span> A roof that works in Florida doesn't work in a Colorado mountain pass. We account for your elevation, your snow load, your wind exposure, your hail risk, and your UV intensity. That's not standard for every contractor. It's non-negotiable for us.
-                </p>
-              </div>
-
-              <div style={{ marginBottom: 16 }}>
-                <p style={{
-                  fontSize: 14,
-                  color: "#475569",
-                  lineHeight: 1.7,
-                  marginBottom: 0
-                }}>
-                  <span style={{ fontWeight: 700 }}>We handle ventilation properly.</span> Most contractors skip it. We don't. A well-ventilated roof lasts longer, performs better, and protects your home's structure.
-                </p>
-              </div>
-
-              <div style={{ marginBottom: 16 }}>
-                <p style={{
-                  fontSize: 14,
-                  color: "#475569",
-                  lineHeight: 1.7,
-                  marginBottom: 0
-                }}>
-                  <span style={{ fontWeight: 700 }}>We're certified across multiple manufacturers.</span> We don't have a favorite. We have the skills to install any major roofing material at a high standard. We recommend based on what makes sense for your home.
-                </p>
-              </div>
-
-              <div style={{ marginBottom: 16 }}>
-                <p style={{
-                  fontSize: 14,
-                  color: "#475569",
-                  lineHeight: 1.7,
-                  marginBottom: 0
-                }}>
-                  <span style={{ fontWeight: 700 }}>We back it up with a 10-year workmanship guarantee.</span> We stand behind our work. That guarantee isn't just a certificate—it's a commitment. We're here, we're local, and we'll honor it.
-                </p>
-              </div>
-
-              <div style={{ marginBottom: 0 }}>
-                <p style={{
-                  fontSize: 14,
-                  color: "#475569",
-                  lineHeight: 1.7,
-                  marginBottom: 0
-                }}>
-                  <span style={{ fontWeight: 700 }}>You get a dedicated construction manager.</span> One person handles your entire project. Not a salesperson who disappears after signing. Not a rotating crew. One experienced person responsible for your roof from start to finish and beyond.
-                </p>
-              </div>
+              <p style={{
+                fontSize: 14,
+                color: "#475569",
+                lineHeight: 1.7,
+                marginBottom: 12
+              }}>
+                <span style={{ fontWeight: 700 }}>Calculation-based ventilation design, not rules of thumb.</span> We calculate what your attic actually needs and verify it on-site. Ventilation is designed as part of the roofing system, not added as an afterthought.
+              </p>
+              <p style={{
+                fontSize: 14,
+                color: "#475569",
+                lineHeight: 1.7,
+                marginBottom: 12
+              }}>
+                <span style={{ fontWeight: 700 }}>Certified across seven manufacturers.</span> Our recommendation is based on what fits your home, not what one brand pays us to sell.
+              </p>
+              <p style={{
+                fontSize: 14,
+                color: "#475569",
+                lineHeight: 1.7,
+                marginBottom: 12
+              }}>
+                <span style={{ fontWeight: 700 }}>Transparent pricing published online.</span> You can see what your roof should cost before you ever talk to anyone. No form, no email required.
+              </p>
+              <p style={{
+                fontSize: 14,
+                color: "#475569",
+                lineHeight: 1.7,
+                marginBottom: 12
+              }}>
+                <span style={{ fontWeight: 700 }}>Defined scope and pricing before work starts.</span> You know exactly what we're doing and what it costs. No vague estimates, no surprises.
+              </p>
+              <p style={{
+                fontSize: 14,
+                color: "#475569",
+                lineHeight: 1.7,
+                marginBottom: 12
+              }}>
+                <span style={{ fontWeight: 700 }}>Dedicated construction manager on every project.</span> One person who knows your job, with photos updated throughout the day via our online portal.
+              </p>
+              <p style={{
+                fontSize: 14,
+                color: "#475569",
+                lineHeight: 1.7,
+                marginBottom: 12
+              }}>
+                <span style={{ fontWeight: 700 }}>10-year workmanship guarantee.</span> We're locally owned, we're not going anywhere, and we stand behind every roof we install.
+              </p>
+              <p style={{
+                fontSize: 14,
+                color: "#475569",
+                lineHeight: 1.7,
+                marginBottom: 0
+              }}>
+                <span style={{ fontWeight: 700 }}>Flexible financing available.</span> We try to meet homeowners where they are to make a roof replacement work for their budget.
+              </p>
             </div>
 
             {/* FINAL CTA BLOCK */}
